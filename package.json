@@ -1,0 +1,25 @@
+{
+  "name": "pizza-server-api",
+  "version": "1.0.0",
+  "description": "Week Two Lab Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeltaV-Instructor/pizza-server-api.git"
+  },
+  "author": "Craig Barkley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeltaV-Instructor/pizza-server-api/issues"
+  },
+  "homepage": "https://github.com/DeltaV-Instructor/pizza-server-api#readme",
+  "dependencies": {
+    "axios": "^1.3.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
